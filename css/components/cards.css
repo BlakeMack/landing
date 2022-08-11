@@ -1,0 +1,23 @@
+.two, .footer {
+  background-color: #cccccc;
+  background-image: linear-gradient(blue, yellow);
+}
+
+.container {
+  margin: 0 auto;
+}
+
+.card-holder {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.card-holder img {
+
+}
+
+.card-holder img{
+  width: 200px;
+  height: 200px;
+}

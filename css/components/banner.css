@@ -1,0 +1,23 @@
+.banner {
+  background-color: #cccccc;
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+}
+
+
+.container {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.button-blue {
+  color: white;
+  background-color: blue;
+  text-decoration: none;
+  text-align: center;
+  padding: 16px 36px;
+  border-radius: 50px;
+  width: 200px;
+  margin: 0 auto;
+}
